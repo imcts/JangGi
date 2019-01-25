@@ -1,1 +1,1 @@
-# 2014년 프로그램을 처음 시작했을때 만들었던 온라인 장기 게임.
+# I made this program when i began Java programing on 2014.
